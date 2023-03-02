@@ -1,0 +1,17 @@
+REM Title: Hacked
+REM Description: Takes You To A Site That Plays Scary Music And Says You Have Been Hacked
+REM Author: Sorted#0002
+ID 1233:5673 Apple:Keyboard
+GUI SPACE
+DELAY 300
+STRING Safari
+ENTER
+DELAY 1000
+GUI n
+DELAY 500
+GUI l
+DELAY 500
+STRING https://sorted.is-broke.cf/hacked.html
+ENTER
+DELAY 500
+STRING f
