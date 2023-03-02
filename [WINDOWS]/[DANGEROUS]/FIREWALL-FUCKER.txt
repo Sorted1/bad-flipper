@@ -1,4 +1,4 @@
-REM Title: Closes All Ports
+REM Title: Firewall Fucker
 REM Author: Sorted#0002
 REM Description: This Blocks All Incoming And Outgoing Traffic On Windows Firewall
 
